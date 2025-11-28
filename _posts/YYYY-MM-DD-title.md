@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "marigomvbae blog"
+date:2025-11-27
 ---
